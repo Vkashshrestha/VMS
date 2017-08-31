@@ -1,7 +1,8 @@
-managements like 
+college system managements like 
 -attendances
 -courses
 -library
+-canteen
 -coordinators role
 -students
 -faculty members
