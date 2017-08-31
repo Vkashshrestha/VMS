@@ -1,0 +1,6 @@
+managements like 
+-attendances
+-courses
+-coordinators role
+-students
+-faculty members
