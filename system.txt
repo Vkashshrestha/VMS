@@ -1,8 +1,10 @@
 college system managements like 
 -attendances
 -courses
+-staffs
 -library
 -canteen
 -coordinators role
 -students
 -faculty members
+-exams/results
